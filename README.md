@@ -7,9 +7,19 @@ El ejemplo "counter" visto en clase, mustra como se maneja el state interno en u
 
 ### Correr el ejemplo localmente
 
-```cd counter```
-```npm install```
-```npm start```
+Desde la carpeta root del proyecto (clase6) ejecutar los siguientes comandos en la terminal.
+
+```
+cd counter
+```
+
+```
+npm install
+```
+
+```
+npm start
+```
 
 ### Links
 
@@ -22,12 +32,23 @@ Dentro de la carpeta "ajax" encontramos el ejemplo visto en clase. Usamos la API
 
 ### Correr el ejemplo localmente
 
-Para levantar el servidor, necesitamos tener docker instalado.
+Para levantar el servidor, necesitamos tener docker instalado. Desde la carpeta root del proyecto (clase6) ejecutar los siguientes comandos en la terminal.
 
-```bash api/init.sh```
-```cd counter```
-```npm install```
-```npm start```
+```
+bash api/init.sh
+```
+
+```
+cd ajax
+```
+
+```
+npm install
+```
+
+```
+npm start
+```
 
 ### Links
 
@@ -44,7 +65,9 @@ Dentro de la carpeta "ejercicios" estan las consignas para relizar los ejercicio
 
 En la clase usamos como "plantilla" para iniciar proyectos el proyecto contenido en la carpeta "ejemplo" que es una app creada con la tool create-react-app. Si tenes esa tool instalada, podes usarla para crear nuevos proyectos simplemente ejecutando el siguiente comando en la terminal.
 
-```create-react-app myapp```
+```
+create-react-app myapp
+```
 
 Esto creara un nuevo directorio con el nombre de la app "myapp" dentro del directorio en el que estamos trabajando.
 
