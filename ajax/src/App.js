@@ -18,7 +18,7 @@ class App extends Component {
     };
   }
 
-  async componentDidMount() {
+  componentDidMount() {
     this.setState(prevState => ({
       ...prevState,
       status: 'pending'
